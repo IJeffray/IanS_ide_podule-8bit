@@ -4,7 +4,7 @@
 
 Compatibe with the interface number 3 version of ZIDEFS - https://www.zeridajh.org/software/zidefs/index.html
 
-Flash can be programmed in-situ, so the chip can be soldered on-board without a socket. Programming software will be added later. 
+Flash can be programmed in-situ, so the chip can be soldered on-board without a socket.
 
 More details on USBFS and a stand-alone USBFS podule here - https://codeberg.org/IanS/ch376_podule
 
